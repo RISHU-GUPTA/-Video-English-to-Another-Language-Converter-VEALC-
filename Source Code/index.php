@@ -27,7 +27,7 @@
                     <label for="link">YouTube Video Link</label>
                     <input name="link"  style="border-radius: 0;" class="form-control" type="text">
                     <br>
-                    <button type="submit" class="btn btn-sm btn-outline-danger">Get Download Links</button>
+                    <button type="submit" class="btn btn-sm btn-outline-danger">Get Download Links Here</button>
                     <br><hr>
                 </form>
             </div>
